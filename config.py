@@ -1,4 +1,4 @@
-TOKEN = '7699311514:AAGh4udbkXh7TgcMV2q75LaA7kaWzoG4SdY'
+TOKEN = '7699311514:AAGh4udbkXh7TgcMV2q75LaA7kaWzoG4SdY' ## отозван
 
 curr_list = {
     'USD': 'Доллар США',
